@@ -1,0 +1,38 @@
+
+.image{
+  width: 20%;
+  height: auto;
+  vertical-align: middle;
+}
+#new{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  
+}
+
+
+.character{
+  align-content: center;
+  border:1px solid black;
+  text-align: center;
+ margin:10px;
+ font-family: cursive;
+background-color: black;
+color:white;
+ padding:5px;
+  width: 30%;
+}
+#navbar{
+  background-color: black;
+}
+
+.name{
+  color: yellow;
+}
+#searchWrapper{
+  text-align: center;
+}
+
+
